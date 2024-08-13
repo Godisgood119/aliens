@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"attacks3",
+  "name":"attacks3",
+  "parent":{
+    "name":"Boss3",
+    "path":"folders/Boss3.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,5 @@
+ - Have a set of sprites for different player states
+ - Have a set of sprites for different boss states
+ 
+ - Have mini-boss/normal enemy stages leading up to boss stage (replayable)
+ 

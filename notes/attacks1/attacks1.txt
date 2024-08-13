@@ -1,0 +1,4 @@
+ - Laser jump
+ - Ground stomp
+ 
+ - On laser jump, he lands in a random location, then you have to use dodge

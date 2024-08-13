@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"plans",
+  "name":"plans",
+  "parent":{
+    "name":"Aliens",
+    "path":"Aliens.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,5 @@
+ - Shoot bullet projectiles
+ - Shoot arm itself
+ - Burst fire from underneath
+ 
+ - Player can shoot arms and destroy them

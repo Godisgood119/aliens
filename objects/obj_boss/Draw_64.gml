@@ -1,0 +1,1 @@
+draw_healthbar(32, 0, view_wport[0]-32, 32, (hp / max_hp) * 100, 0, c_maroon, c_red, 0, false, false);
