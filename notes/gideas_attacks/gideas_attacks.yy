@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"gideas_attacks",
+  "name":"gideas_attacks",
+  "parent":{
+    "name":"Gideas",
+    "path":"folders/Objects/Bosses/Gideas.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

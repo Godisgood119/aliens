@@ -1,0 +1,4 @@
+0. Moves towards player for a certain period of time, and then switches to an attack.
+1. Laser eye. Pupil first enlarges, then rotates as the lasers shoot (either full or half circle spin attack, not continuous but fixed length laser shots)
+2. Protective shield that then explodes many projectiles like a grenade.
+3. Harming Rain (legs contract into body, rocket comes out, and he goes up. Then he rains swirling projectiles from above)

@@ -1,31 +1,13 @@
-// stats
-max_hp = 150;
-hp = max_hp;
+// BASIC
+hp = 100;
 
-// basic movement
+// MOVEMENT
 move_dir = 0;
-move_spd = 2.5;
-xspd = 0;
-yspd = 0;
-sprint_spd = 1;
-dashing = false;
-dash_direction = 1;
-dash_distance = 20;
-dash_duration = 5;
-dash_counter = 0;
+move_x = 0;
+move_y = 0;
+spd = 5;
 
-// Jumps
-grav = 0.275;
-//term_vel = 5;
-jspd = -4;
-jump_buffered = false;
-jump_buffer_time = 5;
-jump_buffer_timer = 0;
-on_ground = false;
+grav = 0.4;
+jspd = -3.15;
+term_vel = 10;
 
-// Items
-inventory = [];
-
-// Temporary combat variables
-weapon_sprite = spr_player_gun;
-weapon_dmg = 6;

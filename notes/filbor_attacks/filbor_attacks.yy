@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"filbor_attacks",
+  "name":"filbor_attacks",
+  "parent":{
+    "name":"Filbor",
+    "path":"folders/Objects/Bosses/Filbor.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

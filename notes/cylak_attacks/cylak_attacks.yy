@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"cylak_attacks",
+  "name":"cylak_attacks",
+  "parent":{
+    "name":"Cylak",
+    "path":"folders/Objects/Bosses/Cylak.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

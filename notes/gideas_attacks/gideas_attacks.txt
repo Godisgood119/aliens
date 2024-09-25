@@ -1,0 +1,14 @@
+ - Shoot bullet projectiles
+ - Shoot arm itself
+ - Burst fire from underneath
+ 
+ - Player can shoot arms and destroy them
+ 
+Moves to the left and right.
+
+1) Gideas rotates three times, while his arms rotate and he shoots bullets.
+	- on level 3, he shoots bombs.
+2) Gideas detaches both arms, with a slight delay between them, 
+	shoots them at the player, then re-attaches.
+3) Gideas detaches both arms, and then they both dash left and right throught-out
+	the room like crazy.

@@ -1,0 +1,1 @@
+switch_move(obj_cylak, 3.1);
